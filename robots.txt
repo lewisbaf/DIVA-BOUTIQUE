@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lewisbaf.github.io/DIVA-BOUTIQUE/sitemap.xml
